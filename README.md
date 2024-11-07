@@ -1,5 +1,6 @@
 # PostCode
-A Midterm Project of Web Programming Subject
+
+Please require the phpmailer using Composer in the terminal : composer require phpmailer/phpmailer
 
 -- MAKE SURE TO RENAME THE DOWNLOADED ZIP FILE INTO PostCode (case sensitive) --  
 
