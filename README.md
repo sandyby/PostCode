@@ -1,6 +1,8 @@
 # PostCode
 A Midterm Project of Web Programming Subject
 
+-- MAKE SURE TO RENAME THE DOWNLOADED ZIP FILE INTO PostCode (case sensitive) --  
+
 If the verification/forget password process failed, make sure that the path/location of this downloaded and extracted folder is located in the correct path as the one inside 
 
 PostCode\PostCode\include\send_password_mail.php as well PostCode\PostCode\include\verification_mail.php
