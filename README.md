@@ -1,6 +1,9 @@
 # PostCode
 
-Please require the phpmailer using Composer in the terminal : _**composer require phpmailer/phpmailer**_
+Please require the phpmailer using Composer in the terminal:
+
+**MAKE SURE YOUR CURRENT DIRECTORY IS LOCATED IN PostCode/PostCode/**
+_**composer require phpmailer/phpmailer**_
 
 _**-- MAKE SURE TO MOVE THE .ZIP FOLDER TO htdocs/ or www/ or any of the main folder according to what you use for local development env. --**_ 
 
