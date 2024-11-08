@@ -3,6 +3,7 @@
 Please require the phpmailer using Composer in the terminal : _**composer require phpmailer/phpmailer**_
 
 _**-- MAKE SURE TO MOVE THE .ZIP FOLDER TO htdocs/ or www/ or any of the main folder according to what you use for local development env. --**_ 
+
 _**-- MAKE SURE TO RENAME ALL THE FOLDER NAMED "PostCode-main" FROM THE DOWNLOADED ZIP FILE INTO PostCode (case sensitive) --**_  
 
 If the verification/forget password process failed, make sure that the path/location of this downloaded and extracted folder is located in the correct path as the one inside 
