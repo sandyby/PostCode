@@ -8,7 +8,7 @@ _**-- MAKE SURE TO RENAME ALL THE FOLDER NAMED "PostCode-main" FROM THE DOWNLOAD
 
 If the verification/forget password process failed, make sure that the path/location of this downloaded and extracted folder is located in the correct path as the one inside 
 
-**PostCode\PostCode\**include\send_password_mail.php as well PostCode\PostCode\include\verification_mail.php
+**PostCode\PostCode**\include\send_password_mail.php as well PostCode\PostCode\include\verification_mail.php
 
 When you extract this folder, make sure that there are a PostCode/ folder inside an outer PostCode/ folder, and it contains all the files inside.
 
